@@ -1,2 +1,2 @@
 # fitzroy
-flutter app
+flutter application
